@@ -1,0 +1,6 @@
+body { background: #0e6283; color: #d811a6; }
+.topbar { background: #132c45; color: #fff; }
+.brand { font-size: 1.15rem; font-weight: 700; }
+.panel { background: #eb1b1b; border: 1px solid #13dd4f; border-radius: .75rem; }
+:focus-visible { outline: 3px solid #873a00; outline-offset: 3px; }
+.topbar :focus-visible { outline-color: #ff69c1; }
